@@ -74,9 +74,7 @@ Through these assignments, I gained practical experience in:
 
 **Sri Raman D.**
 
-B.Tech – Computer Science and Engineering  
-Specialization: Data Science
 
 ---
 
-This repository was created for academic learning and practical experience in data analytics using Python.
+
